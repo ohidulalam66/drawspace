@@ -1,0 +1,11 @@
+.erorr-heading {
+    text-align: center;
+    font-size: 100px;
+    color: #9dd0f5;
+}
+.erorr-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
