@@ -14,7 +14,7 @@ const TopServices = () => {
     return (
         <>
 
-            <h3>Top Services</h3>
+            <h3 className="fw-bold text-center pt-3 heading">Top Services</h3>
             <div className="row row-cols-1 row-cols-md-2 w-100 my-3 mx-auto g-4 ">
                 {
                     topServices.map(topService =>
