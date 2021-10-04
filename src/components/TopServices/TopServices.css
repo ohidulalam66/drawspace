@@ -1,0 +1,13 @@
+
+.service-card {
+    color: white;
+    background: #a7aa9a;
+    border: none;
+    border-radius: 20px;
+}
+.service-card:hover {
+    box-shadow: 5px 5px 2px 0 black;
+}
+.instructor {
+    cursor: pointer;
+}

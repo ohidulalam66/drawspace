@@ -1,0 +1,15 @@
+.service {
+    color: white;
+    background: #a7aa9a;
+    border: none;
+    border-radius: 20px;
+}
+.service:hover {
+    box-shadow: 5px 5px 2px 0 black;
+}
+.service-img {
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 20px;
+}

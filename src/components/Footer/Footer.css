@@ -1,0 +1,40 @@
+.footer-img {
+    width: 150px;
+    height: 150px;
+}
+.social-icon {
+    color: antiquewhite;
+    font-size: 50px;
+    margin: 20px;
+}
+.footer-img {
+    padding: 50px;
+    transition: transform .2s;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+}
+  
+.footer-img:hover {
+    transform: scale(1.1);
+}
+  .icon {
+    color: rgb(181, 177, 177);
+}
+.icon {
+    transition: transform .2s; /* Animation */
+    width: 100px;
+}
+  
+.icon:hover {
+    transform: scale(1.2);
+}
+.fa-facebook-square:hover {
+    color: #4267B2;
+}
+.fa-twitter:Hover {
+    color: #1DA1F2;
+}
+.fa-youtube:Hover {
+    color: #FF0000;
+}

@@ -1,0 +1,8 @@
+/* Google font css link */
+@import url('https://fonts.googleapis.com/css2?family=Scheherazade+New&display=swap');
+
+/* Google font css Style */
+* {
+    font-family: 'Scheherazade New', serif;
+    letter-spacing: 2px;
+}

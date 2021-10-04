@@ -1,0 +1,34 @@
+[
+    {
+        "image": "https://m.media-amazon.com/images/I/71QGkIQ7OUL._SL1024_.jpg",
+        "name": "Drawing Fundamentals 1: Basic Skills & Sketching Accurately",
+        "description": "Sketching & Drawing Basics For the Absolute Beginners. Learn to See and Draw Anything Accurately!",
+        "Instructor": "Ethan Nguyen",
+        "rating": 4.7,
+        "price": 13.99
+    },
+    {
+        "image": "https://www.artdex.com/wp-content/uploads/2020/07/Various-Painting-and-Drawing-Mediums-and-Techniques-1.jpg",
+        "name": "How to Draw From Beginner to Master",
+        "description": "Drawing and Shading From Fundamentals to Photorealism",
+        "Instructor": "Joseph Patric Daniels",
+        "rating": 4.7,
+        "price": 15.89
+    },
+    {
+        "image": "https://cdn.mos.cms.futurecdn.net/qBSnKWhpftE8x4Q6YkpH9E-1200-80.jpg",
+        "name": "Learn to Paint With Impact",
+        "description": "From ordinary to stunning paintings! What makes a painting stand out from the rest? Learn how to add impact to your art.",
+        "Instructor": "Malcolm Dewey",
+        "rating": 4.6,
+        "price": 17.59
+    },
+    {
+        "image": "https://cdn.britannica.com/76/219376-131-8501C217/artists-brushes-paints.jpg",
+        "name": "Watercolor Painting For Beginners I Techniques & Effects",
+        "description": "By Award Winning Artist I Taking Beginner Watercolor Painters To The Next Level I Wet On Wet Watercolor Painting!",
+        "Instructor": "Broderick Wong",
+        "rating": 4.2,
+        "price": 12.99
+    }
+]
