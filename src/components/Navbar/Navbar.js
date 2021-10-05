@@ -10,7 +10,7 @@ const Navbar = () => {
                     <div>
                         <i className="fas fa-pencil-ruler text-white fs-2 me-3"></i>
                     </div>
-                    <h2 className="text-white">Drawspace</h2>
+                    <Link className="text-white text-decoration-none" to="/home"><h1>Drawspace</h1></Link>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon"></span>
                     </button>
@@ -20,7 +20,10 @@ const Navbar = () => {
                                 <Link className="nav-link" aria-current="page" to="/home">Home</Link>
                             </li>
                             <li className="nav-item px-4">
-                                <Link className="nav-link" to="/Services">Our Services</Link>
+                                <Link className="nav-link" to="/services">Our Services</Link>
+                            </li>
+                            <li className="nav-item px-4">
+                                <Link className="nav-link" to="/instructors">Our Instructors</Link>
                             </li>
                             <li className="nav-item px-4">
                                 <Link className="nav-link" to="/about">About Us</Link>

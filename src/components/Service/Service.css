@@ -5,7 +5,7 @@
     border-radius: 20px;
 }
 .service:hover {
-    box-shadow: 5px 5px 2px 0 black;
+    box-shadow: 10px 10px 5px 0 rgb(170, 167, 60);
 }
 .service-img {
     width: 300px;
