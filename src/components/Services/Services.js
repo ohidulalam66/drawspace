@@ -4,14 +4,18 @@ import './Services.css';
 
 const Services = () => {
 
+    // services use sate hooks
     const [services, setServices] = useState([]);
 
+    // services use effect hooks
     useEffect(() => {
         const url = "./courses.JSON";
         fetch(url)
             .then(res => res.json())
             .then(data => setServices(data))
     }, [])
+
+    // services rendering
     return (
         <>
             <div className="bg-services">

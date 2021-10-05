@@ -2,6 +2,7 @@ import React from 'react';
 import './AboutUs.css';
 
 const AboutUs = () => {
+    // AboutUs rendering
     return (
         <div className="bg-about">
             <div className="container">

@@ -2,9 +2,11 @@ import React from 'react';
 import './Instructor.css';
 
 const Instructor = props => {
+    // data distructuring
     const { image, name, videos, profession, address } = props.instructor;
 
     return (
+        // Instructor UI rendering
         <>
             <div className="col-md-6 g-4">
                 <div className="card text-dark bg-secondary h-100 service">

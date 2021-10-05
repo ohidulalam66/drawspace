@@ -2,6 +2,8 @@ import React from 'react';
 import './TopService.css';
 
 const TopService = props => {
+
+    // data destrucring
     const { image, name, description, Instructor } = props.topService;
     return (
         <>

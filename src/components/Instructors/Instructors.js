@@ -3,14 +3,19 @@ import Instructor from '../Instructor/Instructor';
 import './Instructors.css';
 
 const Instructors = () => {
+
+    // Instructors use state hooks
     const [instructors, setInstructors] = useState([]);
 
+    // Instructors use effect hooks
     useEffect(() => {
         const url = "./instructors.JSON";
         fetch(url)
             .then(res => res.json())
             .then(data => setInstructors(data))
     }, [])
+
+    // Instructors rendering
     return (
         <div className="bg-services pb-4">
             <h1 className="fw-bold text-center pt-3 heading">Our Instructors</h1>

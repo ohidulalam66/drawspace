@@ -2,6 +2,8 @@ import React from 'react';
 import './Footer.css';
 
 const Footer = () => {
+
+    // Footer rendering
     return (
         <>
             <div className="bg-dark">

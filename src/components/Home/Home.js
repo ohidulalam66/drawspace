@@ -3,6 +3,7 @@ import TopServices from '../TopServices/TopServices';
 import './Home.css';
 
 const Home = () => {
+    // home rendering
     return (
         <div className="bg-home">
             <div className="container">

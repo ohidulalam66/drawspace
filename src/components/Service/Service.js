@@ -2,8 +2,11 @@ import React from 'react';
 import './Service.css';
 
 const Service = props => {
+
+    // data distructuring
     const { name, image, types, Instructor, rating, price } = props.service;
     return (
+        // Service rendering
         <>
             <div className="container">
                 <div class="row row-cols-1 row-cols-md-1">

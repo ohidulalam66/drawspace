@@ -2,6 +2,8 @@ import React from 'react';
 import './ContactUs.css';
 
 const ContactUs = () => {
+
+    // ContactUs rendering
     return (
         <div className="bg-contact">
             <div className="container py-5">
